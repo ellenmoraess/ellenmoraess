@@ -20,10 +20,9 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="30" />
-  <img width="30" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="0" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
 
