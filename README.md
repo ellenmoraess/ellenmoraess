@@ -8,8 +8,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 
-✨ **Desenvolvedora Junior | Python & JavaScript**
-#
+<div align="center"> <h4> ✨ Desenvolvedora Junior | Python & JavaScript </h4> </div>
 
 ### My Stack:
 <div data-importer="techs" align="center">
@@ -36,6 +35,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h4> Highlights </h4>
 
+✨ - Projeto de jogo em PyGame em andamento <br>
 ✨ - Certificado de Programação em Python <br>
 ✨ - Certificado de Programação em Python para Data Science
 
